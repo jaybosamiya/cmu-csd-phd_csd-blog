@@ -20,9 +20,7 @@ committee = [
 > What if you could run untrusted code and still be able to sleep at night, safe and sound?
 <p></p>
 
-This post describes our research [published at USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22/presentation/bosamiya), where it won the Distinguished Paper Award, and won the Second Prize of the 2022 Internet Defense Prize. A version of this blogpost was previously posted as an [article in USENIX ;login:](https://www.usenix.org/publications/loginonline/provably-safe-multilingual-software-sandboxing-using-webassembly).
-
-Disclaimer: our work [[1]](#references) can only calm your unsafe-software related fears; we recommend complementing this by additionally checking for monsters under your bed, and leaving a night light on for any fears of things that go bump in the night.
+Disclaimer: our award-winning work [[1]](#references) can only calm your unsafe-software related fears; we recommend complementing this by additionally checking for monsters under your bed, and leaving a night light on for any fears of things that go bump in the night.
 
 <figure><a name="fig1"></a><br>
 
@@ -115,9 +113,13 @@ We refer the interested reader to our paper [[1]](#references) and to our open-s
 
 ---
 
+A version of this blogpost was previously posted as an [article in USENIX ;login:](https://www.usenix.org/publications/loginonline/provably-safe-multilingual-software-sandboxing-using-webassembly).
+
+---
+
 <a name="references"></a>
 <small>
-[1] Provably-Safe Multilingual Software Sandboxing using WebAssembly. Jay Bosamiya, Wen Shih Lim, and Bryan Parno. In Proceedings of the USENIX Security Symposium, August, 2022. [https://www.usenix.org/conference/usenixsecurity22/presentation/bosamiya](https://www.usenix.org/conference/usenixsecurity22/presentation/bosamiya)<br>
+[1] Provably-Safe Multilingual Software Sandboxing using WebAssembly. Jay Bosamiya, Wen Shih Lim, and Bryan Parno. In Proceedings of the USENIX Security Symposium, August, 2022. Distinguished Paper Award _and_ Internet Defense Prize. [https://www.usenix.org/conference/usenixsecurity22/presentation/bosamiya](https://www.usenix.org/conference/usenixsecurity22/presentation/bosamiya)<br>
 [2] vWasm: A formally-verified provably-safe sandboxing Wasm-to-native compiler. [https://github.com/secure-foundations/vWasm/](https://github.com/secure-foundations/vWasm/)<br>
 [3] rWasm: A cross-platform high-performance provably-safe sandboxing Wasm-to-native compiler. [https://github.com/secure-foundations/rWasm/](https://github.com/secure-foundations/rWasm/)<br>
 [4] F*: A Proof-Oriented Programming Language. [https://fstar-lang.org/](https://fstar-lang.org/)<br>
