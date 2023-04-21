@@ -1,7 +1,7 @@
 +++
 title = "Provably-Safe Sandboxing with WebAssembly"
 # TODO: Update before final PR is made
-date = 2023-03-14
+date = 2023-04-19
 
 [taxonomies]
 areas = ["Security"]
@@ -11,16 +11,15 @@ tags = ["webassembly", "sandbox", "formal-methods", "distinguished-paper-award",
 author = {name = "Jay Bosamiya", url = "https://www.jaybosamiya.com/" }
 # TODO: Update committee list
 committee = [
-    "The One",
-    "The Only",
-    {name = "Harry Q. Bovik", url = "http://www.cs.cmu.edu/~bovik/"},
+    {name = "The Man, The Myth, The Legend, Harry Q. Bovik", url = "http://www.cs.cmu.edu/~bovik/"},
+    "TODO: Update this with actual writing skills committee members",
 ]
 +++
 
 > What if you could run untrusted code and still be able to sleep at night, safe and sound?
 <p></p>
 
-Disclaimer: our award-winning work [[1]](#references) can only calm your unsafe-software related fears; we recommend complementing this by additionally checking for monsters under your bed, and leaving a night light on for any fears of things that go bump in the night.
+Disclaimer: our award-winning work [[1]](#references) can only calm your unsafe-software related fears; we recommend complementing this by additionally checking for monsters under your bed, and leaving a night light on, for any fears of things that go bump in the night.
 
 <figure><a name="fig1"></a><br>
 
