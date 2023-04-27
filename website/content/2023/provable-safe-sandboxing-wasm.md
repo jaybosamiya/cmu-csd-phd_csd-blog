@@ -11,8 +11,9 @@ tags = ["webassembly", "sandbox", "formal-methods", "distinguished-paper-award",
 author = {name = "Jay Bosamiya", url = "https://www.jaybosamiya.com/" }
 # TODO: Update committee list
 committee = [
-    {name = "The Man, The Myth, The Legend, Harry Q. Bovik", url = "http://www.cs.cmu.edu/~bovik/"},
-    "TODO: Update this with actual writing skills committee members",
+    {name = "Phil Gibbons", url = "https://www.cs.cmu.edu/~gibbons/" },
+    "Fraser Brown",
+    {name = "Han Zhang", url = "https://zhanghan177.github.io/"},
 ]
 +++
 
