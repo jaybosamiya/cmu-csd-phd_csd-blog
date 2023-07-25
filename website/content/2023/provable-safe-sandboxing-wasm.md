@@ -1,7 +1,6 @@
 +++
 title = "Provably-Safe Sandboxing with WebAssembly"
-# TODO: Update before final PR is made
-date = 2023-07-05
+date = 2023-07-25
 
 [taxonomies]
 areas = ["Security"]
@@ -9,7 +8,6 @@ tags = ["webassembly", "sandbox", "formal-methods", "distinguished-paper-award",
 
 [extra]
 author = {name = "Jay Bosamiya", url = "https://www.jaybosamiya.com/" }
-# TODO: Update committee list
 committee = [
     {name = "Phil Gibbons", url = "https://www.cs.cmu.edu/~gibbons/" },
     "Fraser Brown",
